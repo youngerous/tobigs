@@ -8,7 +8,7 @@
 5. [클래스, SVM, 차원축소](https://github.com/youngerous/tobigs/tree/master/wk5_%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20SVM%2C%20%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C)
 6. [크롤링, Neural Network](https://github.com/youngerous/tobigs/tree/master/wk6_%ED%81%AC%EB%A1%A4%EB%A7%81%2C%20Neural%20Network)
 7. [NN 심화, 프레임워크](https://github.com/youngerous/tobigs/tree/master/wk7_NN%20%EC%8B%AC%ED%99%94%2C%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
-8. 이미지, 텍스트, 강화학습
+8. [이미지, 텍스트, 강화학습](https://github.com/youngerous/tobigs/tree/master/wk8_CNN%2C%20NLP)
 9. 이미지 심화, 알고리즘 원리
 10. 텍스트 심화(RNN, LSTM, E/D, Attention)
 ---
